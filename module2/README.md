@@ -83,6 +83,7 @@
 ```yml
 lsblk
 ```
+
 > Вывод:
 > ```yml
 > sdb  8:16  0  1G  0  disk
